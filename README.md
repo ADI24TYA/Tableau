@@ -14,7 +14,7 @@ This repository contains my Tableau projects, showcasing data visualization, ana
   - Attrition trends and key influencing factors
   - Interactive filters for exploring workforce patterns
 - **Files:**
-  - `HR Anlytics`
+  - `HR Analytics`
   -   ├──`HR_Analytics.twb` → Tableau workbook  
   -   ├──`Data/` → Dataset(s) used  
   -   ├──`Images/` → Screenshots of dashboards  
